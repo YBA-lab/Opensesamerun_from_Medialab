@@ -1,0 +1,21 @@
+Study:C:\Program Files (x86)\OpenSesame\examples\face_adaptation_gender.opensesame.tar.gz
+Data:D:\desktop\testdata\
+OpenSesame:C:\Program Files (x86)\OpenSesame\opensesamerun.exe
+MedialabSubject:C:\MediaLab\CurrentSubjectInfo.txt
+
+
+:The purpose of this information is to allow OpenSesameRunner to locate the correct study to run and the place to store the collected data.
+
+:In addition, you can specify the location of the OpenSesameRun.exe and Medialab's current subject info.
+:Under usual circumstances, you should only edit the first two lines of this file, as the other lines assume you didn't not change the default installation paths of Medialab and OpenSesame.
+:The data folder will be created if it does not already exist.
+
+:IMPORTANT:
+:Make sure to view the file with Word Warp disabled to ensure correct line seperation.
+:the first line must begin with "Study:" and then the study path, without a separating space.
+:the second line must begin with "Data:" and then the data path, without a separating space. 
+:make sure to include a slash (\) at the end of the datapath.
+
+:NEVER-EVER use hebrew names for folders - unexpected results.
+
+:pinusm [AT] post [dot] bgu [dot] ac [dot] il
